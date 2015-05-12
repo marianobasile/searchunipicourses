@@ -1,0 +1,10 @@
+#search_course_by_teacher {
+	width: 260px;
+}
+#search_course_by_course_name {
+	width: 260px;
+}
+.block_searchunipicourses .yui3-aclist {
+	overflow: auto;
+	max-height: 300px;
+}
